@@ -1,7 +1,7 @@
 # Workout_App
 Workout application on Android Studio
 
-# Product Namw
+# Selfout
 > The application helps users customize their workout. 
 
 The user has the option to add activities to the workout, indicating the duration. Moreover, activities can be deleted from the workout, using the "Edit" button. 
@@ -12,5 +12,8 @@ well as the time left for the current activity and the time left for the workout
 # Author
 Gabriela Zanova - https://gzanova.netlify.app/ - gabrielavzanova@gmail.com
 
-Copyright © 2020 
+Copyright © 2020
 
+You may NOT reproduce and distribute copies of the
+Work or Derivative Works thereof in any medium, with or without
+modifications, and in Source or Object form unless permission is granted from the author.
