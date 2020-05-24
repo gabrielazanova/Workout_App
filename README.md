@@ -4,6 +4,7 @@ Workout application on Android Studio
 # Selfout
 > The application helps users customize their workout. 
 
+Current features of the application:
 - The user has the option to add activities to the workout, indicating the duration.
 - Activities can be deleted from the workout, using the "Edit" button. 
 - After the workout is started, the user cannot add or edit the activities until the workout is finished or reset. 
