@@ -4,6 +4,10 @@ Workout application on Android Studio
 # Selfout
 > The application helps users customize their workout. 
 
+<p align="center">
+  <img width="250" height="500" src="https://github.com/gabrielazanova/Workout_App/blob/master/Screenshot%20of%20workout%20app.png">
+</p>
+
 Current features of the application:
 - The user has the option to add activities to the workout, indicating the duration.
 - Activities can be deleted from the workout, using the "Edit" button. 
@@ -18,7 +22,7 @@ Copyright © 2020
 
 You may NOT reproduce and distribute copies of the
 Work or Derivative Works thereof in any medium, with or without
-modifications, and in Source or Object form unless permission is granted from the author.
+modifications, and in Source or Object form, unless permission is granted from the author.
 
 # Acknowledgments
 Idea for the application: Konstantin Velkov (https://velkovkonstantin.herokuapp.com/) 
