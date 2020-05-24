@@ -17,3 +17,6 @@ Copyright © 2020
 You may NOT reproduce and distribute copies of the
 Work or Derivative Works thereof in any medium, with or without
 modifications, and in Source or Object form unless permission is granted from the author.
+
+# Acknowledgments
+Idea for the application: Konstantin Velkov (https://velkovkonstantin.herokuapp.com/) 
